@@ -8,7 +8,7 @@ int main() {
     printf("Enter integer:\n");
     scanf("%d", &temp);
 
-    // sets the pointer to adress of temp 
+    // sets the pointer to address of temp 
     temp_ptr = &temp;
 
     printf("%d\n", temp);              // The value of ‘temp’ using ‘temp’
